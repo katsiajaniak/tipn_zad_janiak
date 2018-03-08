@@ -9,4 +9,9 @@ rok [c(1,3,5,7,9,11)]
 nchar (rok)
 mean (nchar(rok))
 sd(nchar(rok))
-zima <-  c("grudzień", "luty", "marzec")
+sd(nchar(rok))
+zimowe_miesiace <- rok [c(1, 2, 3, 12)]
+nchar (zimowe_miesiace)
+mean(nchar(zimowe_miesiace))
+sd(nchar(zimowe_miesiace))
+subset(rok, endsWith(rok, "ec"), TRUE)
