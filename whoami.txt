@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Katarzyna Janiak
 I Rok
+=======
+Katarzyna Janiak
+I Rok
+>>>>>>> a20ee3d4ed299deafacf2edd64ee1f6c1badb44e
 48796
