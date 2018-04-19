@@ -16,3 +16,6 @@ Piszemy sobie jakiś tekst. Z Markdown możesz korzystać w wielu różnych miej
 1. To jest pierwszy punkt.
 2. To jest drugi punkt.
 2. To jest trzeci punkt. - WOW Gituś sam mi to porawił. 
+
+### Teraz robimy linki 
+[Strona GUMedu](http://gumed.edu.pl)
