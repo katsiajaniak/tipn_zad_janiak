@@ -39,4 +39,4 @@ To jest jakiś normalny tekst
 | zebra stripes | are neat      |    $1 |
 
 # Cytaty 
-*>Na mnie się nie krzyczy, mnie się przytula.* Autor nieznany 
+>*Na mnie się nie krzyczy, mnie się przytula.* Autor nieznany 
