@@ -22,4 +22,4 @@ Piszemy sobie jakiś tekst. Z Markdown możesz korzystać w wielu różnych miej
 
 <mailto:kjaniak.poczta@gmail.com>
 
-! [TORBA DJOR] (https://pewex.pl/pictures/Q5/41/581148-744590-product_original-tailormade24-torba-eko-bawelniana-zgubilam-djora-.jpg)
+![TORBA DJOR](https://pewex.pl/pictures/Q5/41/581148-744590-product_original-tailormade24-torba-eko-bawelniana-zgubilam-djora-.jpg)
