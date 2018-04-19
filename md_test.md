@@ -27,7 +27,7 @@ Piszemy sobie jakiś tekst. Z Markdown możesz korzystać w wielu różnych miej
 ```r
 library(tidyverse)
 select(mog, hwy) %>% filter(hwy > 5)
-
+````
 To jest jakiś normalny tekst
 
 #Tabela
@@ -37,4 +37,3 @@ To jest jakiś normalny tekst
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
-
