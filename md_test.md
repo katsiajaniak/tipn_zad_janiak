@@ -20,4 +20,4 @@ Piszemy sobie jakiś tekst. Z Markdown możesz korzystać w wielu różnych miej
 ### Teraz robimy linki 
 [Strona GUMedu](http://gumed.edu.pl)
 
-<mailto:kjaniak,poczta@gmail.com>
+<mailto:kjaniak.poczta@gmail.com>
