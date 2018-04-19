@@ -37,3 +37,6 @@ To jest jakiś normalny tekst
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
+# Cytaty 
+>Na mnie się nie krzyczy, mnie się przytula. Autor nieznany 
