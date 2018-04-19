@@ -21,3 +21,5 @@ Piszemy sobie jakiś tekst. Z Markdown możesz korzystać w wielu różnych miej
 [Strona GUMedu](http://gumed.edu.pl)
 
 <mailto:kjaniak.poczta@gmail.com>
+
+! [TORBA DJOR](https://advmanager.techfun.pl/redirect/-57-48-52-/qrzbgljngbel?url=https%3A%2F%2Fpewex.pl%2Fkategoria%2F39-dodatki%2Fwszystkie%2Ffiltr-kategoria%2BTorby_i_torebki%26marka%2BPewex%2BTailormade24.html%3Futm_source%3Ddemotywatory)
