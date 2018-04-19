@@ -29,3 +29,12 @@ library(tidyverse)
 select(mog, hwy) %>% filter(hwy > 5)
 
 To jest jakiś normalny tekst
+
+#Tabela
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
