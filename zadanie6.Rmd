@@ -1,0 +1,70 @@
+---
+title: "zadanie6"
+author: "Katarzyna Janiak"
+date: "7 maja 2018"
+output: 
+  html_document:
+    theme: spacelab
+    highlight: textmate 
+  df_print: paged  
+  
+---
+
+# Szczecin
+
+Tutatj się urodziłam i wychowałam. Miasto położone jest w województwie zachodniopomorskim, ale nie ma bezpośredniego dostępu do morza, 
+jak wiele osób uważa. Mamy za to inne atrakcje:
+
+1. *Wały Chrobrego*
+2. *Jasne Błonia*
+3. *Teatr Współczesny*
+
+## *Wały Chrobrego* 
+
+Jest to kompleks ogromnych tarasów położonych na skarpie wzdłuż Odry.Z nich można zobaczyć drugą część miasta tzw. *prawobrzeże*. 
+W okresie letnim są tam tłumy. Nic dziwnego, sama lubię tam spacerować. 
+Jest tam też sporo restauracji i kawiarni. Polecam *Palladin*- mają pyszną pizzę. 
+
+## *Jasne Błonia*
+
+Każdy, kto przyjeżdża do Szczecina o nie pyta. To piękne miesjce. Gdy tylko robi się ciepło od razu wypełniają je ludzie. 
+To część *Parku Kasprowicza*. Śmieszna (albo nie) historia. Jak byłam mała to myślałam, że to *Park KaCprowicza*. 
+Dobrze, że poszłam do szkoły i w liceum poznałam tego słynnego *Kasprowicza*. No, jednak szkoła się na coś przydaje.
+Ładnie tam jest i lubię to miejsce 
+
+##  *Teatr Współczesny*
+
+Uwielbiam teatr. Jak byłam w liceum, to chodziłam tam przynajmniej raz w miesiącu. 
+Najbardziej podobał mi się *Pan Tadeusz* i scena z niedźwiedziem. 
+To akurat byłą komedia, ale ogólnie więcej grają tragedii. *Jak umierają słonie* albo *Historia T-shirtu*. 
+Obydwa spektakle są odważne, skłaniające do refleksji. 
+Poruszają współczesne problemy takie, jak konsupcjonizm czy wojna. 
+Na co dzień nie myśli się o tym aż tak intensywnie, może i dobrze , bo wtedy każdy miałby depresję. 
+Ale w sumie, kto jej teraz nie ma...
+
+## Widziałam sporo spektakli w TW, więc pomyślałam, że je teraz ocenię. 
+*od 1 do 5*
+
+| MIEJSCE | OCENA "FAJNOŚCI"|
+| ---- | :----: | ----: |
+| *Pan Tadeusz* | 5 |
+| *Jak umierają słonie* | 4 |
+| *Przyszedł mężczyzna do kobiety* | 5 |
+| *Oskar i Pani Róża* | 5 |
+| *Dzień świra* | 4 |
+
+Wszystkie ww. tytuły serdecznie polecam. 
+
+### Poniżej zamieszczam kilka linkóW, które mogą okazać się przydatne
+
++ [Strona GUMedu](https://pl.wikipedia.org/wiki/Szczecin) 
++ [Strona Teatru Współczesnego w Szczecinie] (http://wspolczesny.szczecin.pl/)
+
+# Okej, teraz jakieś cuda z R czyli *kilka chunków w języku R*. 
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+ggplot(data = mpg) +
+  geom_bar(mapping = aes(x = class, fill = class)) +
+  labs(title = "Klasy samochodów", x = "Klasa", y = "Liczebność")
+```
