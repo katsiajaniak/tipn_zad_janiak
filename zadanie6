@@ -2,8 +2,6 @@
 title: "Szczecin"
 author: "Katarzyna Janiak"
 date: "6 maja 2018"
-output: html_document
----
 output: 
   html_document:
     theme: spacelab
@@ -70,4 +68,3 @@ ggplot(data = mpg) +
   geom_bar(mapping = aes(x = class, fill = class)) +
   labs(title = "Klasy samochodów", x = "Klasa", y = "Liczebność")
 ```
-AHA
